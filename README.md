@@ -1,5 +1,4 @@
 # Gitcoin Passport
-
 ## What is Passport?
 
 Many social organizations, online particularly, have difficulty ensuring that every participant is a unique human and does not have multiple participating accounts. Most existing digital identity solutions are either centralized (e.g., national identity cards) or individualistic (e.g., most “self-sovereign” identity models). However, identity is naturally [intersectional and social](https://www.radicalxchange.org/concepts/intersectional-social-identity/); everybody shares different data and relationships with a unique set of others. The Gitcoin Passport aims to provide a more collaborative and secure infrastructure for digital identity by capturing the richness of our diversely shared lives.
